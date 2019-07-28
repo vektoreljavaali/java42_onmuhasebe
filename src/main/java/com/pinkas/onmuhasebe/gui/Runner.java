@@ -85,7 +85,7 @@ public class Runner {
         md.setMarkaid(2);
         ss.save(md);
         
-        
+        //Açıklama
         tt.commit();
 
         ss.close();
